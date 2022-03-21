@@ -23,6 +23,7 @@ body {
     height: 100vh;
     cursor: default;
     font-family: 'Noto Sans', sans-serif;
+    user-select: none;
 }
 
 /*camera slot*/
